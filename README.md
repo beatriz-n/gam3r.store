@@ -1,3 +1,6 @@
+
+This repository was part of an event I participated in during Formação Dev, providing a valuable experience with various technologies such as React, Next.js, NestJS, TypeScript, and many others used within this repository.
+
 # Turborepo starter
 
 This is an official starter Turborepo.
